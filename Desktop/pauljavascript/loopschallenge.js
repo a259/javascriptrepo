@@ -47,10 +47,9 @@ console.log(subArray2[subArray2.length-1]); //last, better way yet to be found
 console.log(target[25]+target[26]); //proof of accurate slicing
 
 //Challenge 3:Take the string from problem 2 and print each letter out individually.
-// for (i=0;i<target.length;i++) {
-//     console.log(target[i])
-// }
-'Just comment out the above to see the result';
+for (i=0;i<target.length;i++) {
+    console.log(target[i])
+}
 
 //Challenge 4:Take the string from problem 2, loop through the string and find out
 //how many times the word hi appears and the indexes where it appears.
