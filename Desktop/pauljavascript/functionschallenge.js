@@ -68,32 +68,88 @@ const customMaker = (number1, number2, symbol) => {
     }
 }
 
-//Challenge 11: Create function, two nums as params, checks if first greater than second
+//Challenge 11: Create function, two nums as params, checks first greater than second
 const xgty = (x,y) => {
     return x > y
 }
 
-/*
 //Challenge 12: Create function, two nums as params, checks first less than second
+const xlty = (x,y) => {
+    return y < x
+}
 
 //Challenge 13: Create function, takes two nums as params, checks if equal
+const xeqy = (x,y) => {
+    return x == y
+}
 
 //Challenge 14: Create function, takes two nums as params, returns smaller of the two
+const smaller = (x,y) => {
+    if (x < y) {
+        return x
+    } else {
+        return y
+    }}
 
 //Challenge 15: Create function, takes two nums as params, returns larger
+const larger = (x,y) => {
+    if (x > y) {
+        return x
+    } else {
+        return y
+    }}
 
 //Challenge 16: Create function, takes num as param and checks if it is even.
+const isEven = (x) => {
+    if (x % 2 == 0) {
+        return true
+    }
+}
 
-//Challenge 17: Create function, takes number as param, and checks if it is odd.
+//Challenge 17: Create function, takes num as param, and checks if it is odd.
+const isOdd = (x) => {
+    if (x % 2 == !0) {
+        return true
+    }
+}
 
-//Challenge 18: Create function, takes a number between 0 and 100 and returns a
-grade based on this system "A": 90-100% "B": 80-89% "C": 70-79% "D": 60-69% "F": 0-59%.
+//Challenge 18: Create function, takes num between 0:100, returns a grade based 
+//on this system "A": 90-100% "B": 80-89% "C": 70-79% "D": 60-69% "F": 0-59%.
+const grade = (x) => {
+    if (x >= 90 && x <= 100) {
+        return 'Grade A'
+    }
+    if (x >= 80 && x <= 89) {
+        return 'Grade B'
+    }
+    if (x >= 70 && x <= 79) {
+        return 'Grade C'
+    }
+    if (x >= 60 && x <= 69) {
+        return 'Grade D'
+    }
+    if (x >= 0 && x <= 59) {
+        return 'Grade F'
+    } else {
+        return 'Invalid'
+    }
+}
+console.log(grade(77));
 
-- Challenge 19:
-  Create a function that takes two strings as a parameters and returns the strings 
-  oncatenated.
+//Challenge 19: Create function, takes two strings, returns strings concatenated.
+const concat = (x,y) => {
+    return x+y
+}
 
-- Challenge 20:
-  Create a function that takes a string as a parameter and counts the number of
-  vowels in it and returns the result.
-*/
+//Challenge 20: Create function, counts the number of vowels and returns result.
+const vowelCount = (x) => {
+    c = 0;
+    y = x.split("")
+    for (i=0;i<y.length;i++) {
+        if ( ["a","e","i","o","u"].includes(y[i]) == true ) {
+            c++
+        }
+    }
+    return c
+}
+console.log(vowelCount("aieou aieou aieou aieou aieou john madden"))
