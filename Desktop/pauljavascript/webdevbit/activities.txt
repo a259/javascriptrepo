@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------------
+Activity(1) - front page
+Create a HTML only webpage (NO STYLING) for your ‘about me’ section which includes:
+- A page title/heading
+- At least an image (of anything relevant)
+- Subheadings for different sections (i.e. about me, my background, your interests
+in technology and coding, what made you interested in joining Code Nation) 
+
+------------------------------------------------------------------------------------
+Activity(2) - assignment pages
+As you continue to write up your assignment and start putting your blog pages
+together, think about:
+- The file structure of your pagesb(one html file per web page), all html files
+together in your root folder
+- For each page, include:
+ - Clear sections/structure of page (use of <div>)
+ - A heading and different subheadings (subtitle of assignment brief)
+ - References
+- Your homepage must be index.html, you can name any other pages as you wish
+-We have one html file per webpage.
+-These should be together in your root folder
+-Your homepage must be index.html, you can name any other pages as you wish
+-To connect all your pages together, you simply include <a href> tag with
+the file name as the link. E.g:
+<a href="index.html">Home</a>
+<a href="page2.html">Unit 1, Outcome 1</a>
+<a href="review.html">Unit 1, Review</a>
+<a href="unit2.html">Unit 2</a>
+<a href="contact.html">Contact</a>
+
+------------------------------------------------------------------------------------
+Activity(3) - Jump link same page
+Frequently asked question.
+You can add ids so you can jump to part of a page e.g. ‘Back to top’.
+Read more here:
+https://blog.hubspot.com/marketing/jump-link-same-page
+More on IDs when we look at CSS

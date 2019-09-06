@@ -1,0 +1,131 @@
+-------------------------------------------------------------------------------------
+Unit 1: Improving Productivity with IT
+Project: 1
+-------------------------------------------------------------------------------------
+Role: Technical Consultant
+The Brief: 
+-------------------------------------------------------------------------------------
+Outcome 1: Plan, select and use appropriate IT systems and software to meet needs
+-------------------------------------------------------------------------------------
+Brief/Scenario:
+You are wanting to set up as a consultant. To prove your knowledge you want
+to start by creating a blog talking about yourself, why you are interested in
+technology and demonstrate how much you know. For each of the sections below
+asking you to describe, include around a paragraph of
+information about the topic.
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+1.1 Describing the purpose of IT in modern business
+
+In business today, IT or Information and Communications Technology (ICT) is used
+to securely communicate, collaborate and streamline the work of staff in the
+pursuit of commerce with clients or customers.[1]
+
+[Could list some of the technologies here and state how it allows an organisation
+to work as if everyone were sitting in the same office around a large roundtable]
+
+References:
+[1] https://www.oksbdc.org/why-is-technology-important-in-business/
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+1.2 Describing methods, skills and resources needed to complete digital projects
+successfully, what do you need to make projects successful? What tools? What skills?
+
+A collaborative endeavour to accomplish a digital project hinges around good
+project management, leadership/communication skills and technology.[1]
+
+Version Control Systems such as Git & Github, allow workers to share a codebase,
+divide labour into smaller units to work on separately, avoid collisions with other
+workers who might try and work on the same file, and track the iterations of the
+project. This allows code to be experimented on, rolled back to previous versions,
+or for new versions to be developed and tested, and when ready merged into a new
+and improved version ready for release.[2]
+
+Kanban, or 'visual cards' software such as Trello can allow teams to collaboratively
+perform the role of a digital project manager, in a distributed way.
+Workers can plan and then adjust the plan as new tasks are identified and
+unforeseen tasks become apparent. Progress can be tracked and the speed of tasks
+progress be visible by all, helping to identify and defeat bottlenecks in the
+project before deadlines arrive.[3]
+
+These tools facilitate communication across desks, departments and offices, 
+to enable even the smallest parts of an organisation in being seen and heard
+for their valuable contributions to overall strategy and workflow.
+
+References:
+[1] https://www.workamajig.com/blog/digital-project-manager
+[2] https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f
+[3] https://zapier.com/learn/project-management/kanban-board/
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+1.3 Plan and carry out tasks using IT – e.g. making your website. How will you
+plan it? Include a link to your troll board.
+
+The site will be planned with Trello, using my Board[1], i will have 3 Lists,
+that break up the project into 3 stages; 'To Do', 'Doing' and 'Done', and each
+will be populated with many Cards, initially to the left side of the Board and
+eventually being moved to the right side of the board as work is completed.[2]
+References:
+[1] my Board link
+[2] https://www.industrialmarketer.com/why-i-love-trello-for-business/
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+1.4 Describe the risks that might impact digital projects – what causes digital
+projects to fail? Why?
+Failure to plan/structure the project adequately.
+Breakdown of communication. Failure to assess and monitor progress. 
+
+https://www.pmi.org/learning/library/seven-causes-project-failure-initiate-recovery-7195
+-------------------------------------------------------------------------------------
+
+1.5 Describe how you would go about selecting and using IT systems and software –
+how do you select the right kind of technology for the job?
+1.6 Describe and provide analysis on how your chosen technologies have helped you
+achieve your outcomes. – How has trello helped you plan and how can git and GitHub
+help with your codes version control
+1.7 Describe legal guidelines and constraints that impact digital projects –
+How does GDPR impact digital projects? 
+
+-------------------------------------------------------------------------------------
+Outcome 2: Review and adapt the ongoing use of IT tools and systems 
+to make sure that activities are successful
+-------------------------------------------------------------------------------------
+Brief/Scenario:
+Now you have setup your blog, it’s time to get into the detail. You now need
+to critically review your website. To the bottom of your website add a
+review section that contains the following information.
+-------------------------------------------------------------------------------------
+
+2.1 Review the ongoing use of IT tools and change approach as needed – in
+making your own website, are you happy with the tools you used?
+E.g. Visual Studio Code, Codepen, Trello
+2.2 Describe whether the IT tools selected were appropriate 
+E.g. Visual Studio Code, Codepen, Trello
+2.3 Assess the strengths and weaknesses of your final project – are you happy
+with your website? Why? Why not? You should review it on the website itself in
+the interests of openness. What would you change?
+2.4 Describe further improvements you can make to your project
+2.5 Review outcomes to make sure they match requirements and are fit for purpose
+
+-------------------------------------------------------------------------------------
+Outcome 3: Develop and test solutions to improve ongoing use of IT tools and systems
+-------------------------------------------------------------------------------------
+Brief/Scenario:
+Continued from previous task.
+-------------------------------------------------------------------------------------
+
+3.1 Review the benefits and drawbacks of IT tools and systems used in
+terms of productivity and efficiency – could you have been more efficient
+when making your website? How? Could you have done it in teams?
+3.2 Describe ways to improve productivity and efficiency
+3.3 Develop solutions to improve own productivity using IT in digital projects –
+what would you do differently next time? Team work? Use of Slack?
+3.4 Describe how you would go about testing digital solutions
+
+-------------------------------------------------------------------------------------
+That concludes your work on Unit 1.
+-------------------------------------------------------------------------------------
